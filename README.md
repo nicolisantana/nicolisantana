@@ -1,4 +1,4 @@
-### <i> Hi! My name is Nicoli, some call me Chips and I am 16 years old. I live in Jacupiranga, study at Etec de Registro.☕🎧🐺 </i>
+### <i> Hi! My name is Nicoli, some call me Chips and I am 17 years old. I live in Jacupiranga, study at Etec de Registro.☕🎧🐺 </i>
 
 <div align="center">
 
