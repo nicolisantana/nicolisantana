@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/nicoli-ap-ribeiro-de-santana-452799255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/Chipsdebanana" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31ovhfniulldda6ntssesdt34yfi?si=7bd42908d059406e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="cut.gif" width="600">
 
 </div>
