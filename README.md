@@ -1,5 +1,7 @@
 ### <i> Oi! Meu nome é Nicoli, mas podem me chamar de Nick. Tenho 17 anos e estou no último ano da ETEC de Registro. </i>
 
+<br>
+
 <div align="center">
 
  <img src="img/Nick Santana.png">
@@ -28,6 +30,4 @@
   <a href="https://www.linkedin.com/in/nicoli-ap-ribeiro-de-santana-452799255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.reddit.com/user/Chipsdebanana" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/31ovhfniulldda6ntssesdt34yfi?si=7bd42908d059406e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<img src="img/cat.png" width="800">
-
 </div>
