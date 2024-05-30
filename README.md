@@ -15,7 +15,7 @@
   <img align="center" alt="nicolisantana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nicolisantana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nicolisantana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="nicoli-chips2" src="img/20221101_142059.gif" height="150" width="150">
+  <img align="right" alt="nicoli-chips2" src="img/20221101_142059.gif" height="270" width="170">
 
 </div>
 
